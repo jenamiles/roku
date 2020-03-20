@@ -1,0 +1,56 @@
+{
+  "lastUpdated": "2020-03-06T09:11:45+00:00",
+  "providerName": "cornerstone",
+  "language": "en-US",
+"series": [
+    {
+        "id": "id9",
+        "title": "Weekend Service",
+        "episodes": [
+            {
+                "id": "id1",
+                "title": "Weekend Service",
+                "content": {
+                    "dateAdded": "2020-03-19T06:44:43+00:00",
+                    "videos": [
+                        {
+                            "url": "https://media9.livingasone.com/csf-lm-ca/Manifest.m3u8",
+                            "quality": "FHD",
+                            "videoType": "HLS"
+                        }
+                    ],
+                    "duration": 8220,
+                    "validityPeriodEnd": "2020-12-31T06:45:40+00:00"
+                },
+                "thumbnail": "https://www.dropbox.com/s/kvwh5p76ds2aoqn/CFO-SplashPNG.png?dl=0",
+                "episodeNumber": 1,
+                "releaseDate": "2020-03-07",
+                "shortDescription": "Cornerstone Fellowship tries to assist everyone to take their Next Step with Jesus.",
+                "longDescription": "Cornerstone Fellowship tries to assist everyone to take their Next Step with Jesus."
+            }
+        ],
+        "genres": [
+            "faith"
+        ],
+        "thumbnail": "https://www.dropbox.com/s/kvwh5p76ds2aoqn/CFO-SplashPNG.png?dl=0",
+        "releaseDate": "2020-03-07",
+        "shortDescription": "Cornerstone Fellowship tries to assist everyone to take their Next Step with Jesus.",
+        "longDescription": "Cornerstone Fellowship tries to assist everyone to take their Next Step with Jesus.",
+        "tags": [
+            "religious"
+        ],
+        "externalIds": [
+            {
+                "id": "New external ID(1)",
+                "idType": "IMDB"
+            }
+        ]
+    }
+"categories": [
+    {
+        "name": "Religious",
+        "query": "religious AND faith-based",
+        "order": "most_recent"
+    }
+    ]
+}
